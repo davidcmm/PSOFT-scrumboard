@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This application was developed as a final project for the "Software Project" class at UFCG.
+This application was developed as a final project for the "Software Design" course.
 
 ## Running the Application
 
@@ -15,7 +15,7 @@ This application was developed as a final project for the "Software Project" cla
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/luisaadanttas/PSOFT-scrumboard.git
+    git clone [URL anonymized]
     cd PSOFT-scrumboard
     ```
 
