@@ -15,7 +15,7 @@ This application was developed as a final project for the "Software Design" cour
 1. Clone the repository:
 
     ```bash
-    git clone [URL anonymized]
+    git clone [repository URL]
     cd PSOFT-scrumboard
     ```
 
